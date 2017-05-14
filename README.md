@@ -1,6 +1,6 @@
 # Machine Learning on Yelp Dataset
 
-```Predicting User Ratings for New Business using Machine Learning and MapReduce
+```Predicting User Ratings for New Business using Machine Learning and MapReduce```
 
 The idea is to build a predictive system that predicts the degree of likeness of new food joints for users based on users past historical data on a global geographical scale.
 
